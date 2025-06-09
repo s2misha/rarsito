@@ -5,9 +5,9 @@ SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 
 
 $internacional = [
-"titulo" => "Guerra Ucrania | Directo: Kiev acusa a Rusia de lanzar durante la pasada noche "uno de los mayores ataques" con drones",
+"titulo" => "Guerra Ucrania | Directo: Kiev acusa a Rusia de lanzar durante la pasada noche uno de los mayores ataques" con drones",
 "autor" => "Aguilar Quiñones Elquin",
-"resumen" => "Guerra Ucrania | Directo: Kiev acusa a Rusia de lanzar durante la pasada noche "uno de los mayores ataques" con drones
+"resumen" => "Guerra Ucrania | Directo: Kiev acusa a Rusia de lanzar durante la pasada noche uno de los mayores ataques" con drones"
 
 
 Las Fuerzas Armadas de Ucrania han reivindicado este lunes un nuevo ataque contra un aeródromo situado en la región rusa de Nizhni Nóvgorod y ha asegurado que dos aviones militares han sido destruidos, sin que las autoridades rusas se hayan pronunciado por ahora sobre este incidente.
