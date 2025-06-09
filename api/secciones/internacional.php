@@ -3,6 +3,7 @@
 SUSTITUYE LAS XXX POR UN VALOR DE UNA NOTICIA DE INTERES EN ESTA CATEGORIA
 *****/
 
+
 $internacional = [
 "titulo" => "Guerra Ucrania | Directo: Kiev acusa a Rusia de lanzar durante la pasada noche "uno de los mayores ataques" con drones",
 "autor" => "Aguilar Quiñones Elquin",
@@ -17,3 +18,4 @@ Leer más: https://www.europapress.es/internacional/noticia-guerra-rusia-ucrania
 ",
 ];
 ?>
+
